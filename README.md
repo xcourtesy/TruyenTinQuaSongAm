@@ -1,4 +1,4 @@
-# Truyển Tin Qua Sóng Âm
+# Truyền Tin Qua Sóng Âm
 
 Phần mềm mô phỏng truyền tin qua sóng âm thanh trên matlab
 
